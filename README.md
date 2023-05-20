@@ -3,6 +3,7 @@
 I'm Léo, a freelance back-end developper. I offer my services in parallel to my engineering training in digital sciences at CPE Lyon.
 
 I look forward to working with you!
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-gonnet/)
 
 
