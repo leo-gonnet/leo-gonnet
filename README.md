@@ -1,4 +1,10 @@
-### Hi there 👋
+<h3>Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="25"></h3>
+
+I'm Léo, a freelance back-end developper. I offer my services in parallel to my engineering training in digital sciences at CPE Lyon.
+
+I look forward to working with you!
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-gonnet/)
+
 
 <!--
 **leo-gonnet/leo-gonnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
